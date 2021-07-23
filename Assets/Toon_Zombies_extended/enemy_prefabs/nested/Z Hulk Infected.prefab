@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6826859164264342202
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1521563813763533717, guid: e7c5c51e594574543a23275ebea4a9ae,
+        type: 3}
+      propertyPath: m_Name
+      value: Z Hulk Infected
+      objectReference: {fileID: 0}
+    - target: {fileID: 8379298546563418813, guid: e7c5c51e594574543a23275ebea4a9ae,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.31
+      objectReference: {fileID: 0}
+    - target: {fileID: 8379298546563418813, guid: e7c5c51e594574543a23275ebea4a9ae,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8379298546563418813, guid: e7c5c51e594574543a23275ebea4a9ae,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.48
+      objectReference: {fileID: 0}
+    - target: {fileID: 8379298546563418813, guid: e7c5c51e594574543a23275ebea4a9ae,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8379298546563418813, guid: e7c5c51e594574543a23275ebea4a9ae,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8379298546563418813, guid: e7c5c51e594574543a23275ebea4a9ae,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8379298546563418813, guid: e7c5c51e594574543a23275ebea4a9ae,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8379298546563418813, guid: e7c5c51e594574543a23275ebea4a9ae,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8379298546563418813, guid: e7c5c51e594574543a23275ebea4a9ae,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8379298546563418813, guid: e7c5c51e594574543a23275ebea4a9ae,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8379298546563418813, guid: e7c5c51e594574543a23275ebea4a9ae,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3650481699975222650, guid: e7c5c51e594574543a23275ebea4a9ae,
+        type: 3}
+      propertyPath: enemyName
+      value: Mutated Hulk
+      objectReference: {fileID: 0}
+    - target: {fileID: 1462262380643868608, guid: e7c5c51e594574543a23275ebea4a9ae,
+        type: 3}
+      propertyPath: groups.Array.data[0].gameObjects.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1462262380643868608, guid: e7c5c51e594574543a23275ebea4a9ae,
+        type: 3}
+      propertyPath: groups.Array.data[1].gameObjects.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1462262380643868608, guid: e7c5c51e594574543a23275ebea4a9ae,
+        type: 3}
+      propertyPath: groups.Array.data[0].gameObjects.Array.data[0]
+      value: 
+      objectReference: {fileID: 6923061483715805450}
+    - target: {fileID: 1462262380643868608, guid: e7c5c51e594574543a23275ebea4a9ae,
+        type: 3}
+      propertyPath: groups.Array.data[1].gameObjects.Array.data[0]
+      value: 
+      objectReference: {fileID: 6923061483715838646}
+    - target: {fileID: 4516626091758674864, guid: e7c5c51e594574543a23275ebea4a9ae,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4516626091758668986, guid: e7c5c51e594574543a23275ebea4a9ae,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4516626091758772236, guid: e7c5c51e594574543a23275ebea4a9ae,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4516626091758775852, guid: e7c5c51e594574543a23275ebea4a9ae,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e7c5c51e594574543a23275ebea4a9ae, type: 3}
+--- !u!1 &6923061483715805450 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4516626091758674864, guid: e7c5c51e594574543a23275ebea4a9ae,
+    type: 3}
+  m_PrefabInstance: {fileID: 6826859164264342202}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &6923061483715838646 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4516626091758772236, guid: e7c5c51e594574543a23275ebea4a9ae,
+    type: 3}
+  m_PrefabInstance: {fileID: 6826859164264342202}
+  m_PrefabAsset: {fileID: 0}
